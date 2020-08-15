@@ -18,7 +18,7 @@
 - Calculated for correlations of weather conditions and severity during accident
 - Created visualizations for accident frequency based on circumstances and determined most frequent accidents 
 
-![](/gh-pages/accidentHeatMapSF.png)
+![](/accidentHeatMapSF.png)
 
 *Figure 2.* This is an interactable map that shows the locations of the most severe accidents
 
