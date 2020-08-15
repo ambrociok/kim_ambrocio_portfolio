@@ -7,7 +7,7 @@
 - Deployed a NB Classifier to fit transformed monogram and bigram dictionary from the data pipeline
 - Created executables that can be set to run on windows schedule manager based on desired runtimes
 
-![](/blockDiagram.png)
+![](/tree/gh-pages/blockDiagram.png)
 
 *Figure 1.* A block diagram of how the analyzer works
 
@@ -18,10 +18,10 @@
 - Calculated for correlations of weather conditions and severity during accident
 - Created visualizations for accident frequency based on circumstances and determined most frequent accidents 
 
-![](/accidentHeatMapSF.png)
+![](/tree/gh-pages/accidentHeatMapSF.png)
 
 *Figure 2.* This is an interactable map that shows the locations of the most severe accidents
 
-![](/accidentCircumstancePieChart.png)
+![](/tree/gh-pages/accidentCircumstancePieChart.png)
 
 *Figure 3.* This shows the three most common circumstances that accidents happen in
