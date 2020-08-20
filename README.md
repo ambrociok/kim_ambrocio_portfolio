@@ -22,6 +22,6 @@
 
 *Figure 2.* This is an interactable map that shows the locations of the most severe accidents
 
-![](https://github.com/ambrociok/accidentData/blob/master/accidentCircumstancePieChart.png)
+![](https://github.com/ambrociok/accidentData/blob/master/accidentsByCircumstance.png)
 
 *Figure 3.* This shows the three most common circumstances that accidents happen in
