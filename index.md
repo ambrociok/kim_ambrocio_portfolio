@@ -7,7 +7,7 @@
 - Deployed a NB Classifier to fit transformed monogram and bigram dictionary from the data pipeline
 - Created executables that can be set to run on windows schedule manager based on desired runtimes
 
-![](https://github.com/ambrociok/kim_ambrocio_portfolio/tree/gh-pages/blockDiagram.png)
+![](/blockDiagram.png)
 
 *Figure 1.* A block diagram of how the analyzer works
 
@@ -17,7 +17,7 @@
 - Explained differences between normalization methods and trade-offs
 - Hammered ethical approaches to learning while in the process of EDA
 
-![](https://github.com/ambrociok/kim_ambrocio_portfolio/tree/gh-pages/scalingValues.png)
+![](/scalingValues.png)
 
 *Figure 2.* A diagram of how differently scaled values can be preprocessed. Approaches to preprocessing can provide different insights during the final steps of analysis.
 
@@ -27,10 +27,10 @@
 - Calculated for correlations of weather conditions and severity during accident
 - Created visualizations for accident frequency based on circumstances and determined most frequent accidents 
 
-![](https://github.com/ambrociok/kim_ambrocio_portfolio/tree/gh-pagesr/accidentHeatMapSF.png)
+![](/accidentHeatMapSF.png)
 
 *Figure 3.* This is an interactable map that shows the locations of the most severe accidents
 
-![](https://github.com/ambrociok/kim_ambrocio_portfolio/tree/gh-pages/accidentsByCircumstance.png)
+![](/accidentsByCircumstance.png)
 
 *Figure 4.* This shows the three most common circumstances that accidents happen in
