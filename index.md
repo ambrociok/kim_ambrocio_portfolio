@@ -1,5 +1,3 @@
-# Kim Ambrocio Portfolio
-
 ## [Project 1: Headline Market Trend Analyzer: Project Overview](https://github.com/ambrociok/headlineMarketCorrelator)
 - Created a web scraper that gets both the most popular news headlines based on stock tickers and current stock price information
 - Created a pipeline that automatically saves and labels headlines at the end of the day based their ticker's stock price movement
