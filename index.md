@@ -7,21 +7,30 @@
 - Deployed a NB Classifier to fit transformed monogram and bigram dictionary from the data pipeline
 - Created executables that can be set to run on windows schedule manager based on desired runtimes
 
-![](/blockDiagram.png)
+![](https://github.com/ambrociok/headlineMarketCorrelator/blob/master/blockDiagram.png)
 
 *Figure 1.* A block diagram of how the analyzer works
 
+## [Project 2: Graduate Admissions Data Tutorial: Tutorial Overview](https://github.com/ambrociok/graduateAdmissionsTutorial)
+- Created quick easy-to-follow analysis of graduate data
+- Approach nuance of biases in data and provides instructions on minimizing personal biases in analysis
+- Explained differences between normalization methods and trade-offs
+- Hammered ethical approaches to learning while in the process of EDA
 
-## [Project 2: US Traffic Data Analysis: Project Overview](https://github.com/ambrociok/accidentData)
+![](https://github.com/ambrociok/headlineMarketCorrelator/blob/master/scalingValues.png)
+
+*Figure 2.* A diagram of how differently scaled values can be preprocessed. Approaches to preprocessing can provide different insights during the final steps of analysis.
+
+## [Project 3: US Traffic Data Analysis: Project Overview](https://github.com/ambrociok/accidentData)
 - Cleaned and segmented millions of accidents from the Kaggle US Accidents Dataset
 - Created graphic that visualizes accidents based on date, geography, and severity of incident
 - Calculated for correlations of weather conditions and severity during accident
 - Created visualizations for accident frequency based on circumstances and determined most frequent accidents 
 
-![](/accidentHeatMapSF.png)
+![](https://github.com/ambrociok/accidentData/blob/master/accidentHeatMapSF.png)
 
-*Figure 2.* This is an interactable map that shows the locations of the most severe accidents
+*Figure 3.* This is an interactable map that shows the locations of the most severe accidents
 
-![](/accidentsByCircumstance.png)
+![](https://github.com/ambrociok/accidentData/blob/master/accidentsByCircumstance.png)
 
-*Figure 3.* This shows the three most common circumstances that accidents happen in
+*Figure 4.* This shows the three most common circumstances that accidents happen in
